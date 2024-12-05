@@ -1,0 +1,39 @@
+# Lazarus / Free Pascal project files to ignore
+
+# Build files and executables
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.ppu
+*.a
+*.pdb
+*.dSYM/
+
+# Backup and temporary files
+*.bak
+*.log
+*.tmp
+*.~*
+*.~pas
+*.~lfm
+*.swp
+
+# Lazarus IDE-specific files
+backup/
+lib/
+bin/
+build/
+*.compiled
+*.compiled~
+*.compiled.bak
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Version control directories
+.svn/
+.hg/

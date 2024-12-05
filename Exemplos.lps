@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units>
+      <Unit>
+        <Filename Value="Exemplos.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uinicial.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmInicial"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uInicial"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="246"/>
+        <CursorPos X="37" Y="242"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="243" Column="53" TopLine="219"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="99" Column="3" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="163" Column="29"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="141" Column="3" TopLine="109"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="161" Column="39" TopLine="150"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="10" Column="45" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="10" Column="45" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="9" Column="69" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="243" Column="74" TopLine="223"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="244" Column="28" TopLine="205"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="131" Column="31" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="120" Column="3" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="103" Column="66" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="137" Column="53" TopLine="137"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="262" Column="74" TopLine="230"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="242" Column="6" TopLine="230"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="165" Column="94" TopLine="150"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="218" Column="4" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="270" Column="84" TopLine="239"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="166" Column="77" TopLine="154"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="199" Column="41" TopLine="183"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="229" Column="4" TopLine="218"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="291" Column="3" TopLine="259"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="229" Column="31" TopLine="140"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="240" Column="40" TopLine="221"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="239" Column="46" TopLine="225"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="195" Column="3" TopLine="193"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="166" Column="4" TopLine="164"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="294" Column="4" TopLine="272"/>
+      </Position>
+      <Position>
+        <Filename Value="uinicial.pas"/>
+        <Caret Line="200" Column="4" TopLine="198"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+    <HistoryLists>
+      <List Name="LaunchingApplication" Type="File" Count="1">
+        <Item1 Value="C:\WINDOWS\system32\cmd.exe /C ${TargetCmdLine}"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+</CONFIG>
